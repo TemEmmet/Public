@@ -1,2 +1,2 @@
 # Public
-Travaux de synthèses, rapports, veilles techniques et technologies
+Travaux de synthèses, veilles techniques et technologies
